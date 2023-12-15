@@ -2,7 +2,7 @@
 <!--
 - 🔭 I’m currently working on ...-->
 
-🌱 I’m currently learning Python, Data Science, Data Engineering  
+🌱 I’m currently learning Data Science, Data Engineering  
 📫 Contact: peyoumonephu@gmail.com  
 😉 Call me Jin. And I'm He.
 
