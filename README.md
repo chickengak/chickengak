@@ -2,7 +2,11 @@
 <!--
 - 🔭 I’m currently working on ...-->
 
+<<<<<<< HEAD
 🌱 I’m currently learning Python, Data Science, Data Engineering, MLOps  
+=======
+🌱 I’m currently learning Data Science, Data Engineering  
+>>>>>>> 0dae9f43be92c9079a92936c74c8dbdedc842ae1
 📫 Contact: peyoumonephu@gmail.com  
 😉 Call me Jin. And I'm He.
 
