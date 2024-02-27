@@ -2,7 +2,7 @@
 <!--
 - 🔭 I’m currently working on ...-->
 
-🌱 I’m currently learning Python, Data Science, Data Engineering  
+🌱 I’m currently learning Python, Data Science, Data Engineering, MLOps  
 📫 Contact: peyoumonephu@gmail.com  
 😉 Call me Jin. And I'm He.
 
@@ -24,6 +24,7 @@
 <div>
 
 ### Frontend
+<a target="_blank"><img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/></a>
@@ -33,9 +34,14 @@
 
 <div>
 
-### Database & Server
+### Database & Server & AI
 <a target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Apache Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/></a>
+
+<a target="_blank"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/></a>
 </div>
 
 <div>
@@ -52,6 +58,7 @@
 <a target="_blank"><img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/></a>
 </div>
 </div>
+
 
 <div>
 
