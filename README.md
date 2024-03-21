@@ -2,7 +2,7 @@
 <!--
 - 🔭 I’m currently working on ...-->
 
-🌱 I’m currently learning Data Engineering, Data Science, MLOps
+🌱 I’m currently learning Data Engineering, Data Science, ML Engineering, MLOps
 
 📫 Contact: peyoumonephu@gmail.com  
 😉 Call me Jin. And I'm He.
@@ -37,8 +37,13 @@
 
 ### Database & Server & AI
 <a target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/Apache Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/></a>
+
 <a target="_blank"><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/Apache Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/Apache Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/></a>
 
 <a target="_blank"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/></a>
