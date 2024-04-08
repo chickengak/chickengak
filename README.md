@@ -16,15 +16,11 @@
 <div>
 <div>
 
-### Backend
+### Backend & Frontend
 <a target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=--&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/></a>
-</div>
 
-<div>
-
-### Frontend
 <a target="_blank"><img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/></a>
