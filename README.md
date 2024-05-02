@@ -2,7 +2,7 @@
 <!--
 - 🔭 I’m currently working on ...-->
 
-🌱 I’m currently learning Data Engineering, Data Science, ML Engineering, MLOps
+🌱 I’m currently learning Data Science, ML Engineering, MLOps, Data Engineering
 
 📫 Contact: peyoumonephu@gmail.com  
 😉 Call me Jin. And I'm He.
