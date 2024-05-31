@@ -2,7 +2,7 @@
 <!--
 - 🔭 I’m currently working on ...-->
 
-🌱 I’m currently learning Data Science, ML Engineering, MLOps, Data Engineering
+🌱 I’m currently learning Data Science, Data Engineering, ML Engineering, MLOps
 
 📫 Contact: peyoumonephu@gmail.com  
 😉 Call me Jin. And I'm He.
@@ -43,6 +43,7 @@
 <a target="_blank"><img src="https://img.shields.io/badge/Apache Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/></a>
 
 
+<a target="_blank"><img src="https://img.shields.io/badge/Scikit－learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/></a>
